@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(./Assets/Roboto-Regular.ttf);
+}
+
+.navbar{
+    height: 30px;
+}    
+.navbar-nav {
+    align-items: center;
+    padding-left: 330px;
+    font-family: "Roboto";
+    
+}
+.navbar-nav a{
+ color: black;
+  font-size: 11.5px;
+ margin: 0px 19px;
+ text-transform: uppercase;
+ text-decoration: none;
+}
+span{
+    color: #f85605;
+    text-decoration: none;
+    align-items: center;
+}
